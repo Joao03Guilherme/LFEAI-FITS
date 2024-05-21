@@ -1,0 +1,3605 @@
+
+
+*******************************************************************************
+Tue May 14 18:27:03 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : 1200.00]
+
+Current data point
+=========================
+#               = 1 out of 20
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:03 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : 1200.00]
+
+Current data point
+=========================
+#               = 1 out of 20
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:05 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : 120.000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:27:05 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:12 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:12 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:12 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:12 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:12 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:12 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:22 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:22 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:22 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:22 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:22 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:22 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:30 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:30 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:30 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:30 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:30 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:30 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:33 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:33 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:33 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:34 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:34 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:34 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:47 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:47 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:47 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:47 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:47 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:47 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:48 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:49 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:50 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [8.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:55 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [8.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:55 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [8.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:27:56 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [8.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:28:14 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [8.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:28:15 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [8.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:28:15 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [8.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:28:15 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [8.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:28:15 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [8.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:28:15 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [8.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:28:22 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [8.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:28:23 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [8.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:28:23 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+
+Current data point
+=========================
+#               = 1 out of 24
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:28:43 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+
+Current data point
+=========================
+#               = 1 out of 24
+x               = 725            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:28:50 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:28:50 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:28:53 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:28:54 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [* : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:28:55 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:00 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:02 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:02 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:04 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:05 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:19 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:20 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:21 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:22 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:23 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:23 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:24 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:25 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:25 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:26 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:26 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:27 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:28 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:29 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:29 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:30 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:31 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:31 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:43 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [10.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:45 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [12.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:45 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [12.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:47 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [12.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:48 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [1.00000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:48 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:52 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:55 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:56 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:29:56 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:03 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:06 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:12 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:12 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:12 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:12 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:12 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:12 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:12 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:33 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:34 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:36 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:36 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:39 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+700):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:40 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+70):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:42 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+7):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:42 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+7):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:44 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:52 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [20.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:53 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [2.00000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:30:54 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:31:03 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [5.00000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:31:03 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [50.0000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:31:04 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:31:05 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 25.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:31:06 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 600            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:31:07 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 600            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:31:11 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 600            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:31:15 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 600            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:31:30 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 600            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:31:31 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [1.00000 : 1300.00]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 600            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:31:32 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [1.00000 : 1300.00]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 600            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:31:33 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [1.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 600            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:31:34 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [1.00000 : *]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 600            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:31:35 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 600            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:31:36 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 600            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:31:42 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 600            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:32:15 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+        #datapoints = 9
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.2507981820e+12   0.00e+00  4.24e+05    1.000000e+03   1.000000e+03
+   5 0.0000000000e+00  -inf       4.24e+00   -1.662218e+00   9.983306e+02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -2.68007e-22
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+m               = -1.66222       
+b               = 998.331        
+
+
+*******************************************************************************
+Tue May 14 18:32:15 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+        #datapoints = 9
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.2507981820e+12   0.00e+00  4.24e+05    1.000000e+03   1.000000e+03
+   5 0.0000000000e+00  -inf       4.24e+00   -1.662218e+00   9.983306e+02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -2.68007e-22
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+m               = -1.66222       
+b               = 998.331        
+
+
+*******************************************************************************
+Tue May 14 18:32:15 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+        #datapoints = 9
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.2507981820e+12   0.00e+00  4.24e+05    1.000000e+03   1.000000e+03
+   5 0.0000000000e+00  -inf       4.24e+00   -1.662218e+00   9.983306e+02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -2.68007e-22
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+m               = -1.66222       
+b               = 998.331        
+
+
+*******************************************************************************
+Tue May 14 18:32:15 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+        #datapoints = 9
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.2507981820e+12   0.00e+00  4.24e+05    1.000000e+03   1.000000e+03
+   5 0.0000000000e+00  -inf       4.24e+00   -1.662218e+00   9.983306e+02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -2.68007e-22
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+m               = -1.66222       
+b               = 998.331        
+
+
+*******************************************************************************
+Tue May 14 18:32:15 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+        #datapoints = 9
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.2507981820e+12   0.00e+00  4.24e+05    1.000000e+03   1.000000e+03
+   5 0.0000000000e+00  -inf       4.24e+00   -1.662218e+00   9.983306e+02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -2.68007e-22
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+m               = -1.66222       
+b               = 998.331        
+
+
+*******************************************************************************
+Tue May 14 18:32:15 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+        #datapoints = 9
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.2507981820e+12   0.00e+00  4.24e+05    1.000000e+03   1.000000e+03
+   5 0.0000000000e+00  -inf       4.24e+00   -1.662218e+00   9.983306e+02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -2.68007e-22
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+m               = -1.66222       
+b               = 998.331        
+
+
+*******************************************************************************
+Tue May 14 18:32:15 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+        #datapoints = 9
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.2507981820e+12   0.00e+00  4.24e+05    1.000000e+03   1.000000e+03
+   5 0.0000000000e+00  -inf       4.24e+00   -1.662218e+00   9.983306e+02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -2.68007e-22
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+m               = -1.66222       
+b               = 998.331        
+
+
+*******************************************************************************
+Tue May 14 18:32:15 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+        #datapoints = 9
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.2507981820e+12   0.00e+00  4.24e+05    1.000000e+03   1.000000e+03
+   5 0.0000000000e+00  -inf       4.24e+00   -1.662218e+00   9.983306e+02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -2.68007e-22
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+m               = -1.66222       
+b               = 998.331        
+
+
+*******************************************************************************
+Tue May 14 18:32:15 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+        #datapoints = 9
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.2507981820e+12   0.00e+00  4.24e+05    1.000000e+03   1.000000e+03
+   5 0.0000000000e+00  -inf       4.24e+00   -1.662218e+00   9.983306e+02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -2.68007e-22
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+m               = -1.66222       
+b               = 998.331        
+
+
+*******************************************************************************
+Tue May 14 18:33:17 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:33:18 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:33:18 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:33:18 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:33:18 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:33:18 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:33:18 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:33:18 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:33:18 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:33:20 2024
+
+
+FIT:    data read from "patamar.txt" using ($1*25+575):2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+BREAK: No data to fit
+
+*******************************************************************************
+Tue May 14 18:33:22 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 600            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:33:24 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 600            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:33:25 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 600            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:33:26 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 600            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:33:36 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [500.000 : 1300.00]
+
+Current data point
+=========================
+#               = 1 out of 25
+x               = 600            
+z               = 0              
+s               = 0              
+
+BREAK: Zero error value in data file
+
+*******************************************************************************
+Tue May 14 18:33:44 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:34:02 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:34:03 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:34:04 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:34:04 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:34:05 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:34:06 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:34:32 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:36:31 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:36:32 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:36:32 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:36:35 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:36:37 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:36:37 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:36:38 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:36:39 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:36:39 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:36:45 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:36:46 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:36:47 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:37:16 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:37:19 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:37:20 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:37:20 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:37:21 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:37:22 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:37:23 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 18:37:24 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 20:32:25 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 20:32:26 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 20:32:27 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 20:32:28 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 20:32:34 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 20:32:34 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 20:32:34 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 20:32:34 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 20:32:34 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 20:32:34 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 20:32:34 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 20:32:34 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 20:32:35 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Tue May 14 20:33:05 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
+
+
+*******************************************************************************
+Sun May 19 10:53:18 2024
+
+
+FIT:    data read from "patamar.txt" using 1:2:(sqrt($2))
+        format = x:z:s
+        x range restricted to [825.000 : *]
+        #datapoints = 16
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.2993959002e+10   0.00e+00  2.02e+04    1.000000e+03   1.000000e+03
+   7 8.8244901121e+00  -5.03e-06  2.02e-03    6.507642e-01   6.065498e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 8.82449
+rel. change during last iteration : -5.0324e-11
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793927
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.630321
+p-value of the Chisq distribution (FIT_P)              : 0.842127
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.650764         +/- 0.06102      (9.377%)
+b               = 606.55           +/- 61.77        (10.18%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.993  1.000 
