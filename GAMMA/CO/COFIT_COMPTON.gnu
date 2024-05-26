@@ -53,9 +53,6 @@ fit [x2:x3] f2(x) "CO.txt" skip 5 using 1:2:(sqrt($2)) via a2, b2, c2, d2
 
 plot "CO.txt" skip 5 using 1:2:(sqrt($2)) every 2 with yerrorbars ls 1 title "Dados experimentais", [x0:x1] f1(x) ls 9 title "Pico de Backscatter", [x2:x3] f2(x) ls 7 title "Joelho de Compton"
 
-print "Pico de Backscatter: ", b1, " +/- ", c1
-print "Joelho de Compton: ", b2, " +/- ", c2
-
 
 # Save to file
 set term png

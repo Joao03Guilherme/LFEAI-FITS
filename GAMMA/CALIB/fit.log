@@ -5593,3 +5593,147 @@ correlation matrix of the fit parameters:
                 m      b      
 m               1.000 
 b              -0.373  1.000 
+
+
+*******************************************************************************
+Wed May 22 12:00:20 2024
+
+
+FIT:    data read from "CALIB.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 1400.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 2.4049793716e+12   0.00e+00  5.50e+05    1.000000e+02   1.000000e+02
+   6 5.2458061550e+03  -1.33e-05  5.50e-01    5.552044e-01  -3.458002e-01
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5245.81
+rel. change during last iteration : -1.33202e-10
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 51.2143
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2622.9
+p-value of the Chisq distribution (FIT_P)              : 0
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.555204         +/- 0.003547     (0.6388%)
+b               = -0.3458          +/- 0.7016       (202.9%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.373  1.000 
+
+
+*******************************************************************************
+Wed May 22 12:00:20 2024
+
+
+FIT:    data read from "CALIB.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 1400.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 2.4049793716e+12   0.00e+00  5.50e+05    1.000000e+02   1.000000e+02
+   6 5.2458061550e+03  -1.33e-05  5.50e-01    5.552044e-01  -3.458002e-01
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5245.81
+rel. change during last iteration : -1.33202e-10
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 51.2143
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2622.9
+p-value of the Chisq distribution (FIT_P)              : 0
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.555204         +/- 0.003547     (0.6388%)
+b               = -0.3458          +/- 0.7016       (202.9%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.373  1.000 
+
+
+*******************************************************************************
+Wed May 22 12:00:20 2024
+
+
+FIT:    data read from "CALIB.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 1400.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 2.4049793716e+12   0.00e+00  5.50e+05    1.000000e+02   1.000000e+02
+   6 5.2458061550e+03  -1.33e-05  5.50e-01    5.552044e-01  -3.458002e-01
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5245.81
+rel. change during last iteration : -1.33202e-10
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 51.2143
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2622.9
+p-value of the Chisq distribution (FIT_P)              : 0
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.555204         +/- 0.003547     (0.6388%)
+b               = -0.3458          +/- 0.7016       (202.9%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.373  1.000 
+
+
+*******************************************************************************
+Wed May 22 12:00:20 2024
+
+
+FIT:    data read from "CALIB.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 1400.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 2.4049793716e+12   0.00e+00  5.50e+05    1.000000e+02   1.000000e+02
+   6 5.2458061550e+03  -1.33e-05  5.50e-01    5.552044e-01  -3.458002e-01
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5245.81
+rel. change during last iteration : -1.33202e-10
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 51.2143
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2622.9
+p-value of the Chisq distribution (FIT_P)              : 0
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.555204         +/- 0.003547     (0.6388%)
+b               = -0.3458          +/- 0.7016       (202.9%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.373  1.000 

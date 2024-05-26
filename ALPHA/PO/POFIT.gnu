@@ -24,23 +24,23 @@ set ytics nomirror
 # Set graph color to blac
 set style line 1 lc rgb 'black' pt 7 ps 0.7 # Pontos pretos
 
-# Fit gaussian
-f(x) = a*exp(-((x-b)**2)/(2*c**2)) + d 
-a = 200
-b = 370
-c = 50
-d = 100
+# Fit gaussian function
+f1(x) = a1*exp(-((x-b1)**2)/(2*c1**2)) + d1 
+a1 = 200
+b1 = 370
+c1 = 50
+d1 = 100
 
 x0 = 365
 x1 = 380
 
-fit [x0:x1] f(x) "PO5-7X10.txt" skip 5 using 1:2:(sqrt($2)) via a,b,c,d
+# Fit exponential tail
+f2(x) = a2*exp(b2*x) 
+a2 = 1
+b2 = 0.01
+
+fit [x0:x1] f1(x) "PO5-7X10.txt" using 1:2:(sqrt($2)) via a1,b1,c1,d1
+fit [100:x0] f2(x) "PO5-7X10.txt" using 1:2:((sqrt($2)<1?1:sqrt($2))) via a2,b2
 
 # Plota os dados
-plot "PO5-7X10.txt" skip 5 using 1:2:(sqrt($2)) with yerrorbars ls 1 title "Dados experimentais", [x0:x1] f(x) ls 7 title "Pico alfa"
-
-# Save to file
-set terminal png
-set output "PO5-7X10.png"
-replot
-
+plot "PO5-7X10.txt" skip 5 using 1:2:(sqrt($2)) with yerrorbars ls 1 title "Dados experimentais", [100:x0] f2(x) ls 9 lw 5 title "Cauda exponencial", [x0:x1] f1(x) ls 7 lw 5 title "Pico alfa"

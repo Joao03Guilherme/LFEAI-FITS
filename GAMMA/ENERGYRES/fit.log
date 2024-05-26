@@ -1,0 +1,3587 @@
+
+
+*******************************************************************************
+Sun May 26 00:03:28 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4
+        format = x:y:z:s
+        x range restricted to [0.00000 : 1200.00]
+        y range restricted to [0.00000 : 0.300000]
+BREAK: No data to fit
+
+*******************************************************************************
+Sun May 26 00:03:28 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4
+        format = x:y:z:s
+        x range restricted to [0.00000 : 1200.00]
+        y range restricted to [0.00000 : 0.300000]
+BREAK: No data to fit
+
+*******************************************************************************
+Sun May 26 00:03:28 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4
+        format = x:y:z:s
+        x range restricted to [0.00000 : 1200.00]
+        y range restricted to [0.00000 : 0.300000]
+BREAK: No data to fit
+
+*******************************************************************************
+Sun May 26 00:03:30 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4
+        format = x:y:z:s
+        x range restricted to [0.00000 : 1200.00]
+        y range restricted to [0.00000 : 0.300000]
+        #datapoints = 2
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+BREAK: Need via and either parameter list or file
+
+*******************************************************************************
+Sun May 26 00:03:39 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4
+        format = x:y:z:s
+        x range restricted to [0.00000 : 1200.00]
+        y range restricted to [0.00000 : 0.300000]
+        #datapoints = 2
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+BREAK: Need via and either parameter list or file
+
+*******************************************************************************
+Sun May 26 00:03:44 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.9944255160e+03   0.00e+00  2.58e+01    1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       2.58e-05    4.753569e-01   1.478718e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -7.7018e-22
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.475357       
+b               = 0.0147872      
+
+
+*******************************************************************************
+Sun May 26 00:03:52 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.9944255160e+03   0.00e+00  2.58e+01    1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       2.58e-05    4.753569e-01   1.478718e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -7.7018e-22
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.475357       
+b               = 0.0147872      
+
+
+*******************************************************************************
+Sun May 26 00:03:52 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.9944255160e+03   0.00e+00  2.58e+01    1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       2.58e-05    4.753569e-01   1.478718e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -7.7018e-22
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.475357       
+b               = 0.0147872      
+
+
+*******************************************************************************
+Sun May 26 00:03:52 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.9944255160e+03   0.00e+00  2.58e+01    1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       2.58e-05    4.753569e-01   1.478718e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -7.7018e-22
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.475357       
+b               = 0.0147872      
+
+
+*******************************************************************************
+Sun May 26 00:03:52 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.9944255160e+03   0.00e+00  2.58e+01    1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       2.58e-05    4.753569e-01   1.478718e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -7.7018e-22
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.475357       
+b               = 0.0147872      
+
+
+*******************************************************************************
+Sun May 26 00:03:53 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.9944255160e+03   0.00e+00  2.58e+01    1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       2.58e-05    4.753569e-01   1.478718e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -7.7018e-22
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.475357       
+b               = 0.0147872      
+
+
+*******************************************************************************
+Sun May 26 00:03:54 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+BREAK: Need via and either parameter list or file
+
+*******************************************************************************
+Sun May 26 00:03:57 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4
+        format = x:y:z:s
+        x range restricted to [0.00000 : 1200.00]
+        y range restricted to [0.00000 : 0.300000]
+        #datapoints = 2
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.9640034704e+05   0.00e+00  3.29e+02    1.000000e+00   1.000000e+00
+   7 7.4167078425e-29   0.00e+00  3.29e-05   -6.421717e-01   1.348568e-01
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 7.41671e-29
+rel. change during last iteration : 0
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = -0.642172      
+b               = 0.134857       
+
+
+*******************************************************************************
+Sun May 26 00:06:17 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4
+        format = x:y:z:s
+        x range restricted to [0.00000 : 1200.00]
+        y range restricted to [0.00000 : 0.300000]
+        #datapoints = 2
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.9640034704e+05   0.00e+00  3.29e+02    1.000000e+00   1.000000e+00
+   7 7.4167078425e-29   0.00e+00  3.29e-05   -6.421717e-01   1.348568e-01
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 7.41671e-29
+rel. change during last iteration : 0
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = -0.642172      
+b               = 0.134857       
+
+
+*******************************************************************************
+Sun May 26 00:06:18 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.9944255160e+03   0.00e+00  2.58e+01    1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       2.58e-05    4.753569e-01   1.478718e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -7.7018e-22
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.475357       
+b               = 0.0147872      
+
+
+*******************************************************************************
+Sun May 26 00:06:32 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.9944255160e+03   0.00e+00  2.58e+01    1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       2.58e-05    4.753569e-01   1.478718e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -7.7018e-22
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.475357       
+b               = 0.0147872      
+
+
+*******************************************************************************
+Sun May 26 00:06:33 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.9944255160e+03   0.00e+00  2.58e+01    1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       2.58e-05    4.753569e-01   1.478718e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -7.7018e-22
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.475357       
+b               = 0.0147872      
+
+
+*******************************************************************************
+Sun May 26 00:06:33 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.9944255160e+03   0.00e+00  2.58e+01    1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       2.58e-05    4.753569e-01   1.478718e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -7.7018e-22
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.475357       
+b               = 0.0147872      
+
+
+*******************************************************************************
+Sun May 26 00:06:36 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3
+        format = x:z:s
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.9944255160e+03   0.00e+00  2.58e+01    1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       2.58e-05    4.753569e-01   1.478718e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -7.7018e-22
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.475357       
+b               = 0.0147872      
+
+
+*******************************************************************************
+Sun May 26 00:06:37 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.1754176173e+00   0.00e+00  7.13e-01    1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       7.13e-07    4.753569e-01   1.478718e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -3.91007e-30
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.475357       
+b               = 0.0147872      
+
+
+*******************************************************************************
+Sun May 26 00:06:38 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.1754176173e+00   0.00e+00  7.13e-01    1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       7.13e-07    4.753569e-01   1.478718e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -3.91007e-30
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.475357       
+b               = 0.0147872      
+
+
+*******************************************************************************
+Sun May 26 00:32:31 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.1754176173e+00   0.00e+00  7.13e-01    1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       7.13e-07    4.753569e-01   1.478718e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -3.91007e-30
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.475357       
+b               = 0.0147872      
+
+
+*******************************************************************************
+Sun May 26 00:32:31 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.1754176173e+00   0.00e+00  7.13e-01    1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       7.13e-07    4.753569e-01   1.478718e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -3.91007e-30
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.475357       
+b               = 0.0147872      
+
+
+*******************************************************************************
+Sun May 26 00:32:31 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.1754176173e+00   0.00e+00  7.13e-01    1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       7.13e-07    4.753569e-01   1.478718e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -3.91007e-30
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.475357       
+b               = 0.0147872      
+
+
+*******************************************************************************
+Sun May 26 00:32:31 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.1754176173e+00   0.00e+00  7.13e-01    1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       7.13e-07    4.753569e-01   1.478718e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -3.91007e-30
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.475357       
+b               = 0.0147872      
+
+
+*******************************************************************************
+Sun May 26 00:32:33 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 1200.00]
+        #datapoints = 2
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.1754176173e+00   0.00e+00  7.13e-01    1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       7.13e-07    4.753569e-01   1.478718e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -3.91007e-30
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.475357       
+b               = 0.0147872      
+
+
+*******************************************************************************
+Sun May 26 00:32:34 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 200.000]
+BREAK: No data to fit
+
+*******************************************************************************
+Sun May 26 00:32:35 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2200.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1903329817e+00   0.00e+00  7.10e-01    1.000000e+00   1.000000e+00
+   5 2.6043800219e-05  -5.15e-09  7.10e-06    4.999305e-01   1.070067e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.60438e-05
+rel. change during last iteration : -5.15171e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.30219e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.499931         +/- 0.02794      (5.59%)
+b               = 0.0107007        +/- 0.002608     (24.37%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.722  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:32:36 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 20.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Sun May 26 00:32:36 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1903329817e+00   0.00e+00  7.10e-01    1.000000e+00   1.000000e+00
+   5 2.6043800219e-05  -5.15e-09  7.10e-06    4.999305e-01   1.070067e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.60438e-05
+rel. change during last iteration : -5.15171e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.30219e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.499931         +/- 0.02794      (5.59%)
+b               = 0.0107007        +/- 0.002608     (24.37%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.722  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:32:58 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1903329817e+00   0.00e+00  7.10e-01    1.000000e+00   1.000000e+00
+   5 2.6043800219e-05  -5.15e-09  7.10e-06    4.999305e-01   1.070067e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.60438e-05
+rel. change during last iteration : -5.15171e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.30219e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.499931         +/- 0.02794      (5.59%)
+b               = 0.0107007        +/- 0.002608     (24.37%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.722  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:34:57 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1903329817e+00   0.00e+00  7.10e-01    1.000000e+00   1.000000e+00
+   5 2.6043800219e-05  -5.15e-09  7.10e-06    4.999305e-01   1.070067e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.60438e-05
+rel. change during last iteration : -5.15171e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.30219e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.499931         +/- 0.02794      (5.59%)
+b               = 0.0107007        +/- 0.002608     (24.37%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.722  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:34:58 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1903329817e+00   0.00e+00  7.10e-01    1.000000e+00   1.000000e+00
+   5 2.6043800219e-05  -5.15e-09  7.10e-06    4.999305e-01   1.070067e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.60438e-05
+rel. change during last iteration : -5.15171e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.30219e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.499931         +/- 0.02794      (5.59%)
+b               = 0.0107007        +/- 0.002608     (24.37%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.722  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:34:59 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1903329817e+00   0.00e+00  7.10e-01    1.000000e+00   1.000000e+00
+   5 2.6043800219e-05  -5.15e-09  7.10e-06    4.999305e-01   1.070067e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.60438e-05
+rel. change during last iteration : -5.15171e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.30219e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.499931         +/- 0.02794      (5.59%)
+b               = 0.0107007        +/- 0.002608     (24.37%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.722  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:34:59 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1903329817e+00   0.00e+00  7.10e-01    1.000000e+00   1.000000e+00
+   5 2.6043800219e-05  -5.15e-09  7.10e-06    4.999305e-01   1.070067e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.60438e-05
+rel. change during last iteration : -5.15171e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.30219e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.499931         +/- 0.02794      (5.59%)
+b               = 0.0107007        +/- 0.002608     (24.37%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.722  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:07 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1903329817e+00   0.00e+00  7.10e-01    1.000000e+00   1.000000e+00
+   5 2.6043800219e-05  -5.15e-09  7.10e-06    4.999305e-01   1.070067e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.60438e-05
+rel. change during last iteration : -5.15171e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.30219e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.499931         +/- 0.02794      (5.59%)
+b               = 0.0107007        +/- 0.002608     (24.37%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.722  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:07 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1903329817e+00   0.00e+00  7.10e-01    1.000000e+00   1.000000e+00
+   5 2.6043800219e-05  -5.15e-09  7.10e-06    4.999305e-01   1.070067e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.60438e-05
+rel. change during last iteration : -5.15171e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.30219e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.499931         +/- 0.02794      (5.59%)
+b               = 0.0107007        +/- 0.002608     (24.37%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.722  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:07 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1903329817e+00   0.00e+00  7.10e-01    1.000000e+00   1.000000e+00
+   5 2.6043800219e-05  -5.15e-09  7.10e-06    4.999305e-01   1.070067e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.60438e-05
+rel. change during last iteration : -5.15171e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.30219e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.499931         +/- 0.02794      (5.59%)
+b               = 0.0107007        +/- 0.002608     (24.37%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.722  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:07 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1903329817e+00   0.00e+00  7.10e-01    1.000000e+00   1.000000e+00
+   5 2.6043800219e-05  -5.15e-09  7.10e-06    4.999305e-01   1.070067e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.60438e-05
+rel. change during last iteration : -5.15171e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.30219e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.499931         +/- 0.02794      (5.59%)
+b               = 0.0107007        +/- 0.002608     (24.37%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.722  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:07 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1903329817e+00   0.00e+00  7.10e-01    1.000000e+00   1.000000e+00
+   5 2.6043800219e-05  -5.15e-09  7.10e-06    4.999305e-01   1.070067e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.60438e-05
+rel. change during last iteration : -5.15171e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.30219e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.499931         +/- 0.02794      (5.59%)
+b               = 0.0107007        +/- 0.002608     (24.37%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.722  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:10 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1903329817e+00   0.00e+00  7.10e-01    1.000000e+00   1.000000e+00
+   5 2.6043800219e-05  -5.15e-09  7.10e-06    4.999305e-01   1.070067e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.60438e-05
+rel. change during last iteration : -5.15171e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.30219e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.499931         +/- 0.02794      (5.59%)
+b               = 0.0107007        +/- 0.002608     (24.37%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.722  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:11 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1903329817e+00   0.00e+00  7.10e-01    1.000000e+00   1.000000e+00
+   5 2.6043800219e-05  -5.15e-09  7.10e-06    4.999305e-01   1.070067e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.60438e-05
+rel. change during last iteration : -5.15171e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.30219e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.499931         +/- 0.02794      (5.59%)
+b               = 0.0107007        +/- 0.002608     (24.37%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.722  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:11 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1903329817e+00   0.00e+00  7.10e-01    1.000000e+00   1.000000e+00
+   5 2.6043800219e-05  -5.15e-09  7.10e-06    4.999305e-01   1.070067e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.60438e-05
+rel. change during last iteration : -5.15171e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.30219e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.499931         +/- 0.02794      (5.59%)
+b               = 0.0107007        +/- 0.002608     (24.37%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.722  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:16 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1903329817e+00   0.00e+00  7.10e-01    1.000000e+00   1.000000e+00
+   5 2.6043800219e-05  -5.15e-09  7.10e-06    4.999305e-01   1.070067e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.60438e-05
+rel. change during last iteration : -5.15171e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.30219e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.499931         +/- 0.02794      (5.59%)
+b               = 0.0107007        +/- 0.002608     (24.37%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.722  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:18 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4
+        format = x:y:z:s
+        x range restricted to [0.00000 : 2000.00]
+        y range restricted to [0.00000 : 0.300000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 6.1020857891e+06   0.00e+00  1.19e+03    1.000000e+00   1.000000e+00
+   5 9.5859160589e+03  -1.69e-03  1.19e-02   -2.440663e+00   3.559030e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 9585.92
+rel. change during last iteration : -1.69134e-08
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 69.2312
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4792.96
+p-value of the Chisq distribution (FIT_P)              : 0
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -2.44066         +/- 1.958        (80.22%)
+b               = 0.355903         +/- 0.055        (15.45%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.927  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:21 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4
+        format = x:y:z:s
+        x range restricted to [0.00000 : 2000.00]
+        y range restricted to [0.00000 : 0.300000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 6.1020857891e+06   0.00e+00  1.19e+03    1.000000e+00   1.000000e+00
+   5 9.5859160589e+03  -1.69e-03  1.19e-02   -2.440663e+00   3.559030e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 9585.92
+rel. change during last iteration : -1.69134e-08
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 69.2312
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4792.96
+p-value of the Chisq distribution (FIT_P)              : 0
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -2.44066         +/- 1.958        (80.22%)
+b               = 0.355903         +/- 0.055        (15.45%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.927  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:22 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1903329817e+00   0.00e+00  7.10e-01    1.000000e+00   1.000000e+00
+   5 2.6043800219e-05  -5.15e-09  7.10e-06    4.999305e-01   1.070067e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.60438e-05
+rel. change during last iteration : -5.15171e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.30219e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.499931         +/- 0.02794      (5.59%)
+b               = 0.0107007        +/- 0.002608     (24.37%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.722  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:37 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/sqrt(x) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1903329817e+00   0.00e+00  7.10e-01    1.000000e+00   1.000000e+00
+   5 2.6043800219e-05  -5.15e-09  7.10e-06    4.999305e-01   1.070067e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.60438e-05
+rel. change during last iteration : -5.15171e-14
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.30219e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.499931         +/- 0.02794      (5.59%)
+b               = 0.0107007        +/- 0.002608     (24.37%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.722  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:41 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+c) + b
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Sun May 26 00:35:42 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.1269533431e+00   0.00e+00  7.05e-01    1.000000e+00   1.000000e+00
+   5 2.5972268254e-05  -1.03e-08  7.05e-06    5.010309e-01   1.067385e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.59723e-05
+rel. change during last iteration : -1.03187e-13
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00360363
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29861e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.501031         +/- 0.02777      (5.543%)
+b               = 0.0106738        +/- 0.002599     (24.35%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.718  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:43 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Sun May 26 00:35:44 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Sun May 26 00:35:45 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+BREAK: no parameter specified
+
+*******************************************************************************
+Sun May 26 00:35:45 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:55 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:56 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:57 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:58 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:59 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:35:59 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:36:01 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:36:02 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:36:12 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:36:14 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:36:20 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:36:21 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:36:22 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:36:23 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:36:32 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:36:33 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:36:34 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:36:35 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:36:35 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:36:36 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:36:39 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:36:41 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:36:46 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 00:36:47 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:27:24 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:27:25 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:28:25 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:28:25 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:28:26 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:28:42 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:30:23 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 4.1269533431e+00   0.00e+00  5.79e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   8 6.3696224027e-06  -1.92e-06  5.79e-05    1.405732e+00   7.374052e+00  -8.627590e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 6.36962e-06
+rel. change during last iteration : -1.92107e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.36962e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.40573          +/- 0.7401       (52.65%)
+b               = 7.37405          +/- 5.24         (71.05%)
+c               = -0.00862759      +/- 0.01368      (158.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.997  1.000 
+c              -0.993 -0.984  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:30:26 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4
+        format = x:y:z:s
+        x range restricted to [0.00000 : 2000.00]
+        y range restricted to [0.00000 : 0.130000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 6.0884313445e+06   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+ 876 3.3469575283e+03  -9.98e-01  9.70e-02   -2.750803e+02   1.429912e+02   1.799720e+00
+
+After 876 iterations the fit converged.
+final sum of squares of residuals : 3346.96
+rel. change during last iteration : -9.97893e-06
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 57.8529
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3346.96
+p-value of the Chisq distribution (FIT_P)              : 0
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -275.08          +/- 3481         (1265%)
+b               = 142.991          +/- 1083         (757.4%)
+c               = 1.79972          +/- 10.14        (563.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b              -0.999  1.000 
+c              -0.999  0.997  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:30:27 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4
+        format = x:y:z:s
+        x range restricted to [0.00000 : 2000.00]
+        y range restricted to [0.00000 : 0.130000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 6.0884313445e+06   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+ 876 3.3469575283e+03  -9.98e-01  9.70e-02   -2.750803e+02   1.429912e+02   1.799720e+00
+
+After 876 iterations the fit converged.
+final sum of squares of residuals : 3346.96
+rel. change during last iteration : -9.97893e-06
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 57.8529
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3346.96
+p-value of the Chisq distribution (FIT_P)              : 0
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -275.08          +/- 3481         (1265%)
+b               = 142.991          +/- 1083         (757.4%)
+c               = 1.79972          +/- 10.14        (563.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b              -0.999  1.000 
+c              -0.999  0.997  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:30:31 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4
+        format = x:y:z:s
+        x range restricted to [0.00000 : 2000.00]
+        y range restricted to [0.00000 : 0.130000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 6.0884313445e+06   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+ 876 3.3469575283e+03  -9.98e-01  9.70e-02   -2.750803e+02   1.429912e+02   1.799720e+00
+
+After 876 iterations the fit converged.
+final sum of squares of residuals : 3346.96
+rel. change during last iteration : -9.97893e-06
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 57.8529
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3346.96
+p-value of the Chisq distribution (FIT_P)              : 0
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -275.08          +/- 3481         (1265%)
+b               = 142.991          +/- 1083         (757.4%)
+c               = 1.79972          +/- 10.14        (563.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b              -0.999  1.000 
+c              -0.999  0.997  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:30:33 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4
+        format = x:y:z:s
+        x range restricted to [0.00000 : 2000.00]
+        y range restricted to [0.00000 : 0.130000]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+BREAK: Need via and either parameter list or file
+
+*******************************************************************************
+Sun May 26 12:30:33 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4 xyerror
+        format = x:z:sx:s
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.1393452133e+07   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+  17 1.0641854701e+01  -1.40e-02  9.70e-06    2.274931e+00   1.303773e+01  -2.292701e-02
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 10.6419
+rel. change during last iteration : -1.40403e-07
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.26219
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.6419
+p-value of the Chisq distribution (FIT_P)              : 0.00110557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.27493          +/- 1.877        (82.53%)
+b               = 13.0377          +/- 12.46        (95.55%)
+c               = -0.022927        +/- 0.02568      (112%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.981  1.000 
+c              -0.996 -0.962  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:30:42 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4 xyerror
+        format = x:z:sx:s
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.1393452133e+07   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+  17 1.0641854701e+01  -1.40e-02  9.70e-06    2.274931e+00   1.303773e+01  -2.292701e-02
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 10.6419
+rel. change during last iteration : -1.40403e-07
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.26219
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.6419
+p-value of the Chisq distribution (FIT_P)              : 0.00110557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.27493          +/- 1.877        (82.53%)
+b               = 13.0377          +/- 12.46        (95.55%)
+c               = -0.022927        +/- 0.02568      (112%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.981  1.000 
+c              -0.996 -0.962  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:30:42 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4 xyerror
+        format = x:z:sx:s
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.1393452133e+07   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+  17 1.0641854701e+01  -1.40e-02  9.70e-06    2.274931e+00   1.303773e+01  -2.292701e-02
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 10.6419
+rel. change during last iteration : -1.40403e-07
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.26219
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.6419
+p-value of the Chisq distribution (FIT_P)              : 0.00110557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.27493          +/- 1.877        (82.53%)
+b               = 13.0377          +/- 12.46        (95.55%)
+c               = -0.022927        +/- 0.02568      (112%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.981  1.000 
+c              -0.996 -0.962  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:30:42 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4 xyerror
+        format = x:z:sx:s
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.1393452133e+07   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+  17 1.0641854701e+01  -1.40e-02  9.70e-06    2.274931e+00   1.303773e+01  -2.292701e-02
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 10.6419
+rel. change during last iteration : -1.40403e-07
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.26219
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.6419
+p-value of the Chisq distribution (FIT_P)              : 0.00110557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.27493          +/- 1.877        (82.53%)
+b               = 13.0377          +/- 12.46        (95.55%)
+c               = -0.022927        +/- 0.02568      (112%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.981  1.000 
+c              -0.996 -0.962  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:30:42 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4 xyerror
+        format = x:z:sx:s
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.1393452133e+07   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+  17 1.0641854701e+01  -1.40e-02  9.70e-06    2.274931e+00   1.303773e+01  -2.292701e-02
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 10.6419
+rel. change during last iteration : -1.40403e-07
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.26219
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.6419
+p-value of the Chisq distribution (FIT_P)              : 0.00110557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.27493          +/- 1.877        (82.53%)
+b               = 13.0377          +/- 12.46        (95.55%)
+c               = -0.022927        +/- 0.02568      (112%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.981  1.000 
+c              -0.996 -0.962  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:30:42 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4 xyerror
+        format = x:z:sx:s
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.1393452133e+07   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+  17 1.0641854701e+01  -1.40e-02  9.70e-06    2.274931e+00   1.303773e+01  -2.292701e-02
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 10.6419
+rel. change during last iteration : -1.40403e-07
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.26219
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.6419
+p-value of the Chisq distribution (FIT_P)              : 0.00110557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.27493          +/- 1.877        (82.53%)
+b               = 13.0377          +/- 12.46        (95.55%)
+c               = -0.022927        +/- 0.02568      (112%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.981  1.000 
+c              -0.996 -0.962  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:30:45 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4 xyerror
+        format = x:z:sx:s
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.1393452133e+07   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+  17 1.0641854701e+01  -1.40e-02  9.70e-06    2.274931e+00   1.303773e+01  -2.292701e-02
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 10.6419
+rel. change during last iteration : -1.40403e-07
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.26219
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.6419
+p-value of the Chisq distribution (FIT_P)              : 0.00110557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.27493          +/- 1.877        (82.53%)
+b               = 13.0377          +/- 12.46        (95.55%)
+c               = -0.022927        +/- 0.02568      (112%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.981  1.000 
+c              -0.996 -0.962  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:30:45 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4 xyerror
+        format = x:z:sx:s
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.1393452133e+07   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+  17 1.0641854701e+01  -1.40e-02  9.70e-06    2.274931e+00   1.303773e+01  -2.292701e-02
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 10.6419
+rel. change during last iteration : -1.40403e-07
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.26219
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.6419
+p-value of the Chisq distribution (FIT_P)              : 0.00110557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.27493          +/- 1.877        (82.53%)
+b               = 13.0377          +/- 12.46        (95.55%)
+c               = -0.022927        +/- 0.02568      (112%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.981  1.000 
+c              -0.996 -0.962  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:30:45 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4 xyerror
+        format = x:z:sx:s
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.1393452133e+07   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+  17 1.0641854701e+01  -1.40e-02  9.70e-06    2.274931e+00   1.303773e+01  -2.292701e-02
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 10.6419
+rel. change during last iteration : -1.40403e-07
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.26219
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.6419
+p-value of the Chisq distribution (FIT_P)              : 0.00110557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.27493          +/- 1.877        (82.53%)
+b               = 13.0377          +/- 12.46        (95.55%)
+c               = -0.022927        +/- 0.02568      (112%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.981  1.000 
+c              -0.996 -0.962  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:30:46 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4 xyerror
+        format = x:z:sx:s
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.1393452133e+07   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+  17 1.0641854701e+01  -1.40e-02  9.70e-06    2.274931e+00   1.303773e+01  -2.292701e-02
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 10.6419
+rel. change during last iteration : -1.40403e-07
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.26219
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.6419
+p-value of the Chisq distribution (FIT_P)              : 0.00110557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.27493          +/- 1.877        (82.53%)
+b               = 13.0377          +/- 12.46        (95.55%)
+c               = -0.022927        +/- 0.02568      (112%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.981  1.000 
+c              -0.996 -0.962  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:30:46 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4 xyerror
+        format = x:z:sx:s
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.1393452133e+07   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+  17 1.0641854701e+01  -1.40e-02  9.70e-06    2.274931e+00   1.303773e+01  -2.292701e-02
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 10.6419
+rel. change during last iteration : -1.40403e-07
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.26219
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.6419
+p-value of the Chisq distribution (FIT_P)              : 0.00110557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.27493          +/- 1.877        (82.53%)
+b               = 13.0377          +/- 12.46        (95.55%)
+c               = -0.022927        +/- 0.02568      (112%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.981  1.000 
+c              -0.996 -0.962  1.000 
+
+
+*******************************************************************************
+Sun May 26 12:30:51 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4 xyerror
+        format = x:z:sx:s
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.1393452133e+07   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+  17 1.0641854701e+01  -1.40e-02  9.70e-06    2.274931e+00   1.303773e+01  -2.292701e-02
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 10.6419
+rel. change during last iteration : -1.40403e-07
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.26219
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.6419
+p-value of the Chisq distribution (FIT_P)              : 0.00110557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.27493          +/- 1.877        (82.53%)
+b               = 13.0377          +/- 12.46        (95.55%)
+c               = -0.022927        +/- 0.02568      (112%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.981  1.000 
+c              -0.996 -0.962  1.000 
+
+
+*******************************************************************************
+Sun May 26 13:00:02 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4 xyerror
+        format = x:z:sx:s
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.1393452133e+07   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+  17 1.0641854701e+01  -1.40e-02  9.70e-06    2.274931e+00   1.303773e+01  -2.292701e-02
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 10.6419
+rel. change during last iteration : -1.40403e-07
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.26219
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.6419
+p-value of the Chisq distribution (FIT_P)              : 0.00110557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.27493          +/- 1.877        (82.53%)
+b               = 13.0377          +/- 12.46        (95.55%)
+c               = -0.022927        +/- 0.02568      (112%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.981  1.000 
+c              -0.996 -0.962  1.000 
+
+
+*******************************************************************************
+Sun May 26 13:00:02 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4 xyerror
+        format = x:z:sx:s
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.1393452133e+07   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+  17 1.0641854701e+01  -1.40e-02  9.70e-06    2.274931e+00   1.303773e+01  -2.292701e-02
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 10.6419
+rel. change during last iteration : -1.40403e-07
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.26219
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.6419
+p-value of the Chisq distribution (FIT_P)              : 0.00110557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.27493          +/- 1.877        (82.53%)
+b               = 13.0377          +/- 12.46        (95.55%)
+c               = -0.022927        +/- 0.02568      (112%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.981  1.000 
+c              -0.996 -0.962  1.000 
+
+
+*******************************************************************************
+Sun May 26 13:00:02 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4 xyerror
+        format = x:z:sx:s
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.1393452133e+07   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+  17 1.0641854701e+01  -1.40e-02  9.70e-06    2.274931e+00   1.303773e+01  -2.292701e-02
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 10.6419
+rel. change during last iteration : -1.40403e-07
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.26219
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.6419
+p-value of the Chisq distribution (FIT_P)              : 0.00110557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.27493          +/- 1.877        (82.53%)
+b               = 13.0377          +/- 12.46        (95.55%)
+c               = -0.022927        +/- 0.02568      (112%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.981  1.000 
+c              -0.996 -0.962  1.000 
+
+
+*******************************************************************************
+Sun May 26 13:00:02 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4 xyerror
+        format = x:z:sx:s
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.1393452133e+07   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+  17 1.0641854701e+01  -1.40e-02  9.70e-06    2.274931e+00   1.303773e+01  -2.292701e-02
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 10.6419
+rel. change during last iteration : -1.40403e-07
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.26219
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.6419
+p-value of the Chisq distribution (FIT_P)              : 0.00110557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.27493          +/- 1.877        (82.53%)
+b               = 13.0377          +/- 12.46        (95.55%)
+c               = -0.022927        +/- 0.02568      (112%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.981  1.000 
+c              -0.996 -0.962  1.000 
+
+
+*******************************************************************************
+Sun May 26 13:00:02 2024
+
+
+FIT:    data read from "ENERGYRES.txt" using 1:2:3:4 xyerror
+        format = x:z:sx:s
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 4
+function used for fitting: f(x)
+	f(x) = a/(sqrt(x)+b) + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.1393452133e+07   0.00e+00  9.70e+02    1.000000e+00   1.000000e+00   1.000000e+00
+  17 1.0641854701e+01  -1.40e-02  9.70e-06    2.274931e+00   1.303773e+01  -2.292701e-02
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 10.6419
+rel. change during last iteration : -1.40403e-07
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.26219
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.6419
+p-value of the Chisq distribution (FIT_P)              : 0.00110557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.27493          +/- 1.877        (82.53%)
+b               = 13.0377          +/- 12.46        (95.55%)
+c               = -0.022927        +/- 0.02568      (112%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b               0.981  1.000 
+c              -0.996 -0.962  1.000 
